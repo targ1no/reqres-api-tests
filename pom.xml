@@ -27,7 +27,6 @@
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
             <version>5.3.0</version>
-            <scope>test</scope>
         </dependency>
 
         <!-- Jackson for JSON <-> POJO -->
@@ -54,7 +53,6 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>7.8.0</version>
-            <scope>test</scope>
         </dependency>
     </dependencies>
 
