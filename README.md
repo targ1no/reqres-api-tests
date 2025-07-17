@@ -1,8 +1,7 @@
 ## Reqres API Test Automation
 
-Este projeto automatiza testes da API pública [Reqres](https://reqres.in) utilizando **Java + Rest Assured + Cucumber + TestNG**.  
-Foi estruturado tentando seguir o máximo possível de boas práticas de organização, versionamento e legibilidade para ser usado como portfólio profissional.
-
+This project automates tests for the public API  [Reqres](https://reqres.in) using **Java + Rest Assured + Cucumber + TestNG**.  
+It was structured aiming to follow best practices in organization, version control, and readability as much as possible, so it can be used as a professional portfolio.
 ---
 
 ### Tech Stack
@@ -15,20 +14,21 @@ Foi estruturado tentando seguir o máximo possível de boas práticas de organiz
 
 ---
 
-### Como executar
+### How to run
 
-No terminal, execute:
+In the terminal, run:
 
 ```bash
 mvn test
 ```
 
-Isso executará todos os cenários definidos nos arquivos .feature com Cucumber + TestNG.
+This will execute all scenarios defined in the .feature files using Cucumber + TestNG.
 
-### Cenários implementados:
+---
+### Implemented scenarios:
 
-- Listar usuários (GET /users)
+- List users (GET /users)
 
-### Próximos passos:
+### Next steps:
 
-- Criar usuário (POST /users)
+- Create user (POST /users)
