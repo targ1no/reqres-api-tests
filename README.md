@@ -28,7 +28,8 @@ This will execute all scenarios defined in the .feature files using Cucumber + T
 ### Implemented scenarios:
 
 - List users (GET /users)
+- Create user (POST /users)
 
 ### Next steps:
 
-- Create user (POST /users)
+- Fail to create a user (POST/ users ⌋ Returns 400)
