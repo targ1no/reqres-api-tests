@@ -1,6 +1,7 @@
 ## Reqres API Test Automation
 
-This project automates tests for the public API  [Reqres](https://reqres.in) using **Java + Rest Assured + Cucumber + TestNG**.  
+---
+This project automates tests for the public API  [Reqres](https://reqres.in) using **Java + Rest Assured + Cucumber + TestNG**.
 It was structured aiming to follow best practices in organization, version control, and readability as much as possible, so it can be used as a professional portfolio.
 ---
 
